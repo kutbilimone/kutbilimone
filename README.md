@@ -8,7 +8,9 @@ My career philosophy is centered on perpetual growth. I am driven by the pursuit
 
 Projects that fuel my creativity and enable me to apply my coding passion to solve intricate problems resonate with me the most. To me, career success is an ongoing expedition, and I eagerly welcome new challenges, viewing each experience as an opportunity to learn and positively impact projects that enhance people's lives.
 
-I'm open to collaboration, so don't hesitate to contact me if you could use my skills for your business or project. Thank you.<!--
+I'm open to collaboration, so don't hesitate to contact me if you could use my skills for your business or project. Thank you.
+
+<!--
 **kutbilimone/kutbilimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
